@@ -6,8 +6,12 @@ public class App {
 - Allow searching by book title or author */
     }
 
-    public static void search() {
+    public static void searchBooks() {
+        
+    }
 
+    public static void searchMembers() {
+        
     }
 
     public static void addBook() {
@@ -15,7 +19,7 @@ public class App {
     }
 
     public static void deleteBook() {
-        
+
     }
 
     public static void addMember() {
