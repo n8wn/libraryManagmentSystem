@@ -21,6 +21,14 @@ public class Library {
         return books.get(bookId);
     }
 
+    public List<Book> getBooks() {
+        return books;
+    }
+
+    public List<Members> getMembers() {
+        return members;
+    }
+
     public Member getMember(String memberId) {
         return members.get(memberId);
     }
